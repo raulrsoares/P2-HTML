@@ -1,6 +1,6 @@
 # P2-HTML
 
- - Examplo de um site para universidade UNES-UUniversidade.:smiley:
+ - Exemplo de um site para universidade UNES-UUniversidade.:smiley:
 
  - Foi utilizado Tabelas para organizar as informações dentro do site, porém não é o recomendado. Para um próximo projeto vai ser utlizado outras maneiras (CSS) para organização do site.:wink:
 
