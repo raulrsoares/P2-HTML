@@ -6,4 +6,4 @@
 
  - OBS: O que foi utilizado como exemplo aqui é de referência a um curso da Udemy.:grin:
 
- - <a href="https://raulrsoares.github.io/P2-HTML/" target="_blank" rel="noreferrer">Link</a> para aplicação funcionando.
+ - <a href="https://raulrsoares.github.io/P2-HTML/" target="_blank" rel="noreferrer">Link</a> para site funcionando.
